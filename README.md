@@ -23,5 +23,5 @@ The projects is divied to following steps:
 
 ## Motivation:
 
-This project is designed to imporove the skills needed for data visualizations using plotly and also learn how to deploy a datadashboard. There are seveal techniques is needed to do this project such as HTML,Javascript and CSS. Flask and Plotly are the main packages which are used for easily conduction the project. The Horuko webservice is also used for deploying on the web. 
+This project is designed to imporove the skills needed for data visualizations using plotly and also learn how to deploy a data dashboard. There are seveal techniques is needed to do this project such as HTML,Javascript and CSS. Flask and Plotly are the main packages which are used for easily conduction the project. The Horuko webservice is also used for deploying on the web. 
 
