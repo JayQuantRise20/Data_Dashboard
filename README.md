@@ -21,6 +21,9 @@ The projects is divied to following steps:
 - run the web app in your computer to be sure that everything works
 - deply the webapp to **Horuko** back-end service
 
+## How It Works:
+
+
 ## Libararies:
 
 There are different libraries used to load the data, clean it and make visualizations in order to be used on web app.
